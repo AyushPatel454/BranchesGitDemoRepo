@@ -1,0 +1,6 @@
+It is still track after we added in .gitignore.
+
+After untrack this file. i make it change. but this file is untrack and it is already added in .gitignore file so it will no reflect in git status command.
+
+
+changes sorry ,,,,,!!!
